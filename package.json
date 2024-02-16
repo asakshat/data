@@ -1,0 +1,24 @@
+{
+  "name": "10-01-javascript-recap-johnemon-asakshat",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/nJnV-r2A) # JOHNEMON™™ Challenge",
+  "main": "Game.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "dotenv": "^16.4.3",
+    "figlet": "^1.7.0",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.2.13",
+    "mysql": "^2.18.1",
+    "nanospinner": "^1.1.0",
+    "play-sound": "^1.1.6"
+  }
+}
